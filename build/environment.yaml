@@ -12,5 +12,4 @@ dependencies:
   - anaconda::pandas
   - pip:
     - git+https://github.com/open-forcefield-group/openforcefield@548f04d005a51c03b40f1b4fa0ec32b80ae10775
-    - https://pypi.anaconda.org/openeye/simple/openeye-toolkits-python3-redhat-7-x64/2015.10.1/OpenEye-toolkits-python3-redhat-7-x64-2015.10.1.tar.gz
-
+    - https://pypi.anaconda.org/openeye/label/beta/simple/openeye-oenotebook/0.8.1/OpenEye-oenotebook-0.8.1.tar.gz
